@@ -61,16 +61,6 @@ I enjoy working across the full analytics lifecycle:
 
 ---
 
-## 📌 Featured Projects  
-> *(Pin these after uploading your repos!)*  
-- **Belonging-Together** – data-informed social inclusion platform  
-- **ML-Mini-Projects** – classification, regression, EDA & modelling notebooks  
-- **SQL-Portfolio** – schema design, joins, optimisation & stored procedures  
-- **Data-Cleaning-Pipeline** – automated preprocessing + validation  
-- **Dashboard-Projects** – interactive Tableau stories & reports  
-
----
-
 ## 🌱 Areas I Enjoy Working In  
 - Data cleaning & feature engineering  
 - Predictive modelling & evaluation  
